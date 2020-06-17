@@ -1,0 +1,9 @@
+[submodule "dnd-reference"]
+	path = dnd-reference
+	url = https://github.com/bwhetherington/dnd-reference.git
+[submodule "dnd-spellbook-2"]
+	path = dnd-spellbook-2
+	url = https://github.com/bwhetherington/dnd-spellbook-2.git
+[submodule "init-tracker"]
+	path = init-tracker
+	url = https://github.com/bwhetherington/init-tracker.git
